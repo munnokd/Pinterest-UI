@@ -1,0 +1,76 @@
+.main{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.main__container{
+    column-gap: 10px;
+    margin: 0 auto;
+    height: 100%;
+    background-color: white;
+}
+
+@media (min-width:0px) and (max-width:755px){
+    .main__container{
+        max-width: 504px;
+        column-count: 2;
+    }
+}
+@media (min-width:756px) and (max-width:1007px){
+    .main__container{
+        max-width: 756px;
+        column-count: 3;
+    }
+}
+@media (min-width:1008px) and (max-width:1259px){
+    .main__container{
+        max-width: 1008px;
+        column-count: 4;
+    }
+}
+@media (min-width:1260px) and (max-width:1511px){
+    .main__container{
+        max-width: 1260px;
+        column-count: 5;
+    }
+}
+@media (min-width:1512px) and (max-width:1763px){
+    .main__container{
+        max-width: 1512px;
+        column-count: 6;
+    }
+}
+@media (min-width:1764px) and (max-width:2015px){
+    .main__container{
+        max-width: 1764px;
+        column-count: 7;
+    }
+}
+@media (min-width:2016px) and (max-width:2267px){
+    .main__container{
+        max-width: 2016px;
+        column-count: 8;
+    }
+}
+@media (min-width:2268px) and (max-width:2519px){
+    .main__container{
+        max-width: 2268px;
+        column-count: 9;
+    }
+}
+@media (min-width:2520px) and (max-width:2771px){
+    .main__container{
+        max-width: 2520px;
+        column-count: 9;
+    }
+}
+@media (min-width:2772px) and (max-width:3023px){
+    .main__container{
+        max-width: 2772px;
+        column-count: 9;
+    }
+}
