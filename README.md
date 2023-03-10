@@ -1,13 +1,20 @@
-# Getting Started with install this folder in your pc
 
-after installation type
+# Pinterest UI Web app
 
-### `npm install`
+I made this project using React.js, API.
 
-after installation of all node modules you can run your app.For these type below command
+## Steps for the implement this project into your system. 
 
-### `npm start`
+1. Fork this repository.
+2. Clone repository in your system using `git clone https://github.com/<your username>/Pinterest-UI.git`.
+3. Then run `npm i` for install the node modules folder.
+4. After that run `npm start` for start project.
 
-This app hosting link is 
+## Steps for contribute in this project
 
-### `https://pinterest-clone-c5aa9.web.app/`
+1. Fork this repository.
+2. Clone repository in your system using `git clone https://github.com/<your username>/Pinterest-UI.git`.
+3. Then run `npm i` for install the node modules folder.
+3. After that apply changes what do you want and then commit you code.
+4. And then create a pull request.
+
